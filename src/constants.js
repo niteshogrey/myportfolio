@@ -35,7 +35,7 @@ import fullstackGif from "./assets/service_logo/fullstack.gif"
 
 // Experience Section Logo's
 import snbaLogo from "./assets/company_logo/snba-logo-black.png";
-import licxoLogo from "./assets/company_logo/licxo.jpg";
+import licxoLogo from "./assets/company_logo/Licxo.jpg";
 import techonetLogo from "./assets/company_logo/techonet.jpg";
 
 // Education Section Logo's
